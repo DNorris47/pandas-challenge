@@ -14,16 +14,17 @@ District Summary
 
 
 Scores by School Type
- 
+ ![Screenshot](ScoresbySchoolType.png)
 
 
 Scores by School Size
- 
+ ![Screenshot](ScoresbySchoolSize.png)
 
 Top Performing Schools
 
- 
+ ![Screenshot](Topperformingschls.png)
 
 
 Bottom Performing Schools
  
+![Screenshot](Bottomperformingschls.png)
