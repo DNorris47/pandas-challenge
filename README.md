@@ -1,5 +1,5 @@
 # pandas-challenge
-This repository houses a python pandas solution in the education sector to analyze city's school district data. This project will help school board and mayor to make strategic decisions regarding future school budgets and priorities. This project utilized two datasets in csv format. The final analysis summarizes both datasets imported, merged, and the aggregate data diplayed in to python pandas dataframes with a Jupyter notebook.
+This repository houses a python pandas solution in the education sector to analyze city's school district data. This project will help school board and mayor to make strategic decisions regarding future school budgets and priorities. This project utilized two datasets in csv format. The final analysis summarizes both datasets imported, merged, and the aggregate data diplayed into python pandas dataframes with a Jupyter notebook.
 
 
 **Final Analysis**
