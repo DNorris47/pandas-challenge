@@ -1,7 +1,7 @@
 # pandas-challenge
  pandas homework
 
-Analysis
+**Analysis**
 
 Overall percent passing score is extremely low as the analysis revealed the top five school types being Charter while the lower being District schools. The larger sized schools fall within the lower end of the overall passing.
 
@@ -13,7 +13,8 @@ Overall percent passing score is extremely low as the analysis revealed the top 
 **Scores by School Type**
 
  ![Screenshot](ScoresbySchoolType.png)
-
+#
+#
 
 **Scores by School Size**
 
